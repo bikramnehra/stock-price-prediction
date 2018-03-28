@@ -1,0 +1,1 @@
+spark-submit --master yarn-cluster --num-executors 25 ./word2vecFeatureExtraction-TestData.py ./Stock/stopWords ./Stock/wordFeatures ./Stock/TrainNews Stock/TestNews ./Stock/LabelsTrain ./Stock/LabelsTest  FeatureTestTemp     

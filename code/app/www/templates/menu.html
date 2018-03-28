@@ -1,0 +1,33 @@
+<ion-side-menus enable-menu-with-back-views="true">
+    <ion-side-menu-content>
+        <ion-nav-bar class="bar-positive" ng-class="{expanded: isExpanded, 'has-header-fab-left': hasHeaderFabLeft, 'has-header-fab-right': hasHeaderFabRight}" align-title="left">
+            <ion-nav-back-button class="no-text">
+            </ion-nav-back-button>
+            <ion-nav-buttons side="right">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="right">
+                </button>
+            </ion-nav-buttons>
+        </ion-nav-bar>
+        <ion-nav-view name="menuContent" ng-class="{expanded: isExpanded}" ></ion-nav-view>
+    </ion-side-menu-content>
+    
+    <ion-side-menu side="right">
+        <ion-header-bar class="dark-bg expanded">
+            <span class="avatar" style="background: url('img/user.png'); background-size: cover;"></span>
+            <h2>SmartStocks</h2>
+        </ion-header-bar>
+        <ion-content class="stable-bg has-expanded-header">
+            <ion-list>
+                <ion-item nav-clear menu-close ui-sref="app.portfolio">
+                    <i class="icon ion-briefcase" style="font-size: 15px"> Portfolio</i>
+                </ion-item>
+                <ion-item nav-clear menu-close ui-sref="app.trends">
+                    <i class="icon ion-arrow-graph-up-right" style="font-size: 15px"> Trends</i>
+                </ion-item>
+                <ion-item nav-clear menu-close ui-sref="app.login">
+                    <i class="icon ion-log-out" style="font-size: 15px"> Logout</i>
+                </ion-item>
+            </ion-list>
+        </ion-content>
+    </ion-side-menu>
+</ion-side-menus>
