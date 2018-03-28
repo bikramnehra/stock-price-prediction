@@ -1,0 +1,2600 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-167875.46257130118" y="-98973.95188981903" width="335750.9251426024" height="197856.09667936715"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="34_177130" type="button" x="-12322.691402208706" y="-6946.5145782870695" r="0" s="367.2284010835274" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>678.5568616084109</w>
+        <h>501.23870060290136</h>
+      </size>
+    </object>
+    <object id="31_177130" type="image" x="-16833.481443012" y="7684.559521280946" r="0" s="342.887584854232">
+      <source w="881" h="500">2501685397<url>2501685397.swf</url></source>
+      <sourceUrl>math%20lightbulb.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>2501685397</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/5/2/d04760c29f934f3079aba2896bfb9dde0c69f.swf</url></resource></object>
+    <object id="35_177130" type="button" x="-110665.69263803972" y="-55221.098939873744" r="0" s="50.51449066074354" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>653.2659147668387</w>
+        <h>424.5320188926815</h>
+      </size>
+    </object>
+    <object id="1" type="shape" x="-110490.26892450948" y="-46476.07740273063" r="-0.0029022526700022027" s="64.77469523616402" class="line3">
+      <geom type="line">
+        <sp>180.67464241356603 0</sp>
+        <ep>-180.67464241356603 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="2" type="shape" x="-119176.87684778574" y="-54019.08377260233" r="0" s="16.747600732774995" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-139.14610111713364" y="-416.1653674444327"/>
+        <p x="139.14610111713364" y="-416.1653674444327"/>
+        <p x="139.14610111713364" y="416.1653674444327"/>
+        <p x="-139.14610111713364" y="416.1653674444327"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="3" type="shape" x="-114282.97669965775" y="-51125.93641539472" r="0" s="16.747600732774995" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-139.14610111713364" y="-243.41540741310192"/>
+        <p x="139.14610111713364" y="-243.41540741310192"/>
+        <p x="139.14610111713364" y="243.41540741310192"/>
+        <p x="-139.14610111713364" y="243.41540741310192"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="4" type="shape" x="-109389.07655153" y="-52952.28535111245" r="0" s="16.747600732774995" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-139.14610111713364" y="-352.46678527068036"/>
+        <p x="139.14610111713364" y="-352.46678527068036"/>
+        <p x="139.14610111713364" y="352.46678527068036"/>
+        <p x="-139.14610111713364" y="352.46678527068036"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="5" type="shape" x="-106957.41938903456" y="-59080.86778495572" r="0" s="11.75875014127255" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="7" type="text" x="-106991.70166529973" y="-59146.82705932798" r="0" s="59.90705883960537" class="strong">
+      <style fontFamily="custom-droidsans" font-family="DroidSans"/>
+      <style fontFamily="custom-droidsans" font-family="DroidSans"/>
+      <height>27.9375</height>
+      <width>-48.4921875</width>
+      <p>
+        <text><![CDATA[2 Bn]]></text>
+      </p>
+    </object>
+    <object id="4_66449867" type="button" x="-110677.32166905024" y="-27106.612271127007" r="0" s="59.14944263894185" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>557.9729136404794</w>
+        <h>418.4796852303595</h>
+      </size>
+    </object>
+    <object id="5_177130" type="shape" x="-125801.71333143306" y="-27167.90325997544" r="90" s="83.54955477742355" class="line3">
+      <geom type="line">
+        <sp>-132.0733716077141 0</sp>
+        <ep>132.0733716077141 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="6_177130" type="shape" x="-110704.8277139182" y="-16132.467229624988" r="-0.002902252670044306" s="83.54955477742354" class="line3">
+      <geom type="line">
+        <sp>180.67464241356603 0</sp>
+        <ep>-180.67464241356603 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="7_177130" type="shape" x="-124094.18241605665" y="-25861.803995909" r="0" s="21.60187060258361" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-416.1653674444327"/>
+        <p x="38" y="-416.1653674444327"/>
+        <p x="38" y="416.1653674444327"/>
+        <p x="-38" y="416.1653674444327"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="8_177130" type="shape" x="-116635.26098840425" y="-22135.065834041077" r="0" s="21.60187060258361" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-243.41540741310192"/>
+        <p x="38" y="-243.41540741310192"/>
+        <p x="38" y="243.41540741310192"/>
+        <p x="-38" y="243.41540741310192"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="9_177130" type="shape" x="-109395.4969216488" y="-24486.29700003343" r="0" s="21.60187060258361" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-352.46678527068036"/>
+        <p x="38" y="-352.46678527068036"/>
+        <p x="38" y="352.46678527068036"/>
+        <p x="-38" y="352.46678527068036"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="10_177130" type="shape" x="-116627.54249999326" y="-29718.25363462109" r="0" s="15.16700828094037" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="12_177130" type="text" x="-116729.05172786242" y="-29766.56704478636" r="0" s="72.34775061706297" class="strong">
+      <height>28.176</height>
+      <width>-56.568</width>
+      <p>
+        <text><![CDATA[100K]]></text>
+      </p>
+    </object>
+    <object id="13_177130" type="shape" x="-122278.1778562548" y="-23175.19873484556" r="0" s="21.60187060258361" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-291.450987293337"/>
+        <p x="38" y="-291.450987293337"/>
+        <p x="38" y="291.450987293337"/>
+        <p x="-38" y="291.450987293337"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="14_177130" type="shape" x="-114862.9484637698" y="-21043.13795254454" r="0" s="21.60187060258361" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-192.83744863718184"/>
+        <p x="38" y="-192.83744863718184"/>
+        <p x="38" y="192.83744863718184"/>
+        <p x="-38" y="192.83744863718184"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="15_177130" type="shape" x="-107625.31840382711" y="-23924.691695634217" r="0" s="21.60187060258361" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-38" y="-325.84999928472075"/>
+        <p x="38" y="-325.84999928472075"/>
+        <p x="38" y="325.84999928472075"/>
+        <p x="-38" y="325.84999928472075"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="16_177130" type="text" x="-7211.016233161521" y="-88553.52428154658" r="0" s="390.8463413892889" class="body">
+      <height>28.176</height>
+      <width>573.3534509838194</width>
+      <p>
+        <text weight="bold"><![CDATA[Stock prediction system based on financial news]]></text>
+      </p>
+    </object>
+    <object id="17_177130" type="shape" x="-12120.634787666206" y="-74295.95516592998" r="0" s="129.05036039335607" class="line1">
+      <geom type="line">
+        <sp>-645.1014188387117 0</sp>
+        <ep>645.1014188387117 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="18_177130" type="shape" x="-113951.95593172708" y="-60117.22989621918" r="-29.999999999999964" s="12.04384617201241" class="line3">
+      <geom type="arrow">
+        <sp>222.11364910298855 -64.82665128967218</sp>
+        <ep>-222.11364910298855 -64.82665128967227</ep>
+        <b>-129.65330257934446</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="19_177130" type="text" x="-103890.96742448492" y="-63391.77269103529" r="0" s="54.776286747655845" class="body">
+      <height>56.352</height>
+      <width>292.3499470656588</width>
+      <p>
+        <text><![CDATA[2 Billion shares are traded on NASDAQ daily...]]></text>
+      </p>
+    </object>
+    <object id="27_177130" type="shape" x="-9413.933918464929" y="-47679.92973820845" r="0" s="26.878421307678774" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="24_177130" type="shape" x="-23713.055462293207" y="-43982.041903920384" r="0" s="26.878421307678774" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="23_177130" type="image" x="-23708.62626872548" y="-43986.35394917279" r="0" s="9.87112503741536">
+      <source w="458" h="356">606629151<url>606629151.swf</url></source>
+      <sourceUrl>stock_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>606629151</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/5/6/b0a96d0f26d94db20b641258ccf163dcb4094.swf</url></resource></object>
+    <object id="6_66449867" type="button" x="-110677.45947143898" y="1487.3834189109657" r="0" s="41.32375413912504" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="26_177130" type="image" x="-116096.2700436912" y="1489.4117230452794" r="0" s="17.248339827785312">
+      <source w="1314" h="1314" bt="773.15" bl="1319.35">643170951<url>643170951.swf</url></source>
+      <sourceUrl>stock%20line.swf</sourceUrl>
+    <resource><id>643170951</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/6/4/3d8c2828c315ed0ff162e05a5005ef4b9731b.swf</url></resource></object>
+    <object id="29_177130" type="shape" x="4663.62165677809" y="-43986.225295288205" r="0" s="26.878421307678774" class="poly1">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="22_177130" type="image" x="4664.187863586115" y="-43985.922603663406" r="0" s="15.367611249636038">
+      <source w="380" h="181">786447009<url>786447009.swf</url></source>
+      <sourceUrl>money_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>786447009</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/6/4/06392e60ff5d05738dc5d29827de1ec64dc8b.swf</url></resource></object>
+    <object id="20_177130" type="image" x="-9345.878751502089" y="-48021.71903114664" r="0" s="10.956707336618832">
+      <source w="394" h="357">606564945<url>606564945.swf</url></source>
+      <sourceUrl>bank_w.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>606564945</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/1/c/23a880f2924566bdc40fd022c1c9052cbcfc4.swf</url></resource></object>
+    <object id="37_177130" type="button" x="-10250.47672220306" y="-37299.59600812347" r="0" s="82.13669080964453" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1061.1972291995553</w>
+        <h>571.9259753724443</h>
+      </size>
+    </object>
+    <object id="38_177130" type="text" x="-13671.096647771425" y="-38035.4449813852" r="0" s="132.46688110440874" class="body">
+      <height>28.176</height>
+      <width>-121.82400000000001</width>
+      <p>
+        <text weight="bold"><![CDATA[Objectives]]></text>
+      </p>
+    </object>
+    <object id="5_66449867" type="text" x="-104414.00602649586" y="-36081.97860614815" r="0" s="72.34775061706297" class="body">
+      <height>84.52799999999999</height>
+      <width>273.192</width>
+      <p>
+        <text><![CDATA[Over 100K Companies are publically traded all over the world...]]></text>
+      </p>
+    </object>
+    <object id="7_66449867" type="text" x="-100506.7459111554" y="1160.6694499312716" r="0" s="71.3019505791023" class="body">
+      <height>225.40799999999996</height>
+      <width>117.186</width>
+      <p>
+        <text><![CDATA[The Global Stock market size is close to US $55 trillion]]></text>
+      </p>
+    </object>
+    <object id="8_66449867" type="shape" x="-116095.13118018131" y="-4534.390258352635" r="0" s="23.8869268708562" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+    </object>
+    <object id="9_66449867" type="text" x="-116045.23103153837" y="-4582.584807184105" r="0" s="47.243546875577955" class="strong">
+      <style fontFamily="custom-droidsans" font-family="DroidSans"/>
+      <style fontFamily="custom-droidsans" font-family="DroidSans"/>
+      <height>27.9375</height>
+      <width>-109.13671875</width>
+      <p>
+        <text weight="bold"><![CDATA[US $55 Tn]]></text>
+      </p>
+    </object>
+    <object id="98_66449867" type="button" x="-110677.32166905024" y="31809.14546057155" r="0" s="31.74288603859829" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1044.0636982676392</w>
+        <h>783.0477737007295</h>
+      </size>
+    </object>
+    <object id="100_66449867" type="image" x="-124243.43169909148" y="25397.44998994627" r="0" s="3.5108955828839306">
+      <source w="1024" h="1024">4295366084<url>4295366084.png</url></source>
+      <sourceUrl>Volkswagen_Logo.png</sourceUrl>
+    <resource><id>4295366084</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/4/127a3bd92dcd0f7d49737e58b53dbd2fad0fe.png</url></resource></object>
+    <object id="108_66449867" type="image" x="-101762.71352729273" y="37797.0587514637" r="0" s="10.57810392368676">
+      <source w="1200" h="683">4295402216<url>4295402216.png</url></source>
+      <sourceUrl>vw.png</sourceUrl>
+    <resource><id>4295402216</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/5/3/38d7e38a77f4c81274bd0875872f57e544c93.png</url></resource></object>
+    <object id="99_66449867" type="text" x="-110557.25167699937" y="28358.78979110283" r="0" s="36.21521699022989" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>281.76</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Volkswagen​ Emission Misconduct]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Volkswagen lost almost a quarter of its market value after news was out about cheating on U.S. air pollution tests for years]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[It plunged as much as 23 percent to 125.40 euros in Frankfurt, wiping out about 15.6 billion euros ($17.6 billion) in market value]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[The stock closed at 132.2 euros, its lowest in more than three years]]></text>
+      </p>
+    </object>
+    <object id="101_66449867" type="text" x="-111327.47531765953" y="21702.98485383829" r="0" s="72.78088547863204" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>28.176</height>
+      <width>-120.936</width>
+      <p>
+        <text weight="bold"><![CDATA[Motivation]]></text>
+      </p>
+    </object>
+    <object id="102_66449867" type="button" x="-110677.32166905024" y="63217.8927456202" r="0" s="41.49622678849455" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>800</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="103_66449867" type="text" x="-110774.68782779736" y="52702.34760093336" r="0" s="44.00730338851996" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>28.176</height>
+      <width>-186.52800000000002</width>
+      <p>
+        <text weight="bold"><![CDATA[Similar Stories....]]></text>
+      </p>
+    </object>
+    <object id="104_66449867" type="text" x="-110157.4853977733" y="56151.69504965475" r="0" s="44.00730338851996" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>56.352</height>
+      <width>610.1030367423191</width>
+      <p>
+        <text><![CDATA[After the news of iphone 6 bending problem was out Apple stock suffered a loss of 23% in stock prices.]]></text>
+      </p>
+    </object>
+    <object id="105_66449867" type="text" x="-110785.96469929062" y="60732.58028675352" r="0" s="44.00730338851996" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>84.52799999999999</height>
+      <width>581.65</width>
+      <p>
+        <text><![CDATA[A news of an oil spill caused BP's corporate shares fall from $60 to $27 in one month, wiping out $100 billion in shareholder value]]></text>
+      </p>
+    </object>
+    <object id="107_66449867" type="text" x="-111436.99774379456" y="66682.36770488146" r="0" s="44.00730338851996" class="body">
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <style fontFamily="custom-ralewayo" font-family="RalewayO"/>
+      <height>112.704</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[The Dow reacted favorably to the news,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[when the rate increase was announced by Federal Reserve, the industrial average was steadily risen and closed up 1.28%. ]]></text>
+      </p>
+    </object>
+    <object id="109_66449867" type="text" x="-16614.926854267876" y="-27545.0994725039" r="0" s="92.9921749914124" class="body">
+      <height>169.05599999999998</height>
+      <width>552</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Understand relationship and predict the movement of stock prices in the market based on financial news ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Create a portfolio based on user specified criteria for recommending best investment options to users]]></text>
+      </p>
+    </object>
+    <object id="422_66449867" type="button" x="80875.6" y="56734.8" r="0" s="88.17245724705664" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>961.1424390812928</w>
+        <h>392.671044519107</h>
+      </size>
+    </object>
+    <object id="360_66449867" type="shape" x="84506.79629230921" y="61792.71600131115" r="-1.2581195647146495e-14" s="27.358064015553104" class="line5">
+      <geom type="line">
+        <sp>-1298.2383179035494 0</sp>
+        <ep>1298.2383179035496 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="361_66449867" type="text" x="63787.76228459105" y="63267.958331200025" r="-2.026669292762107e-43" s="57.0801648978376" class="body">
+      <height>28.176</height>
+      <width>-12.792</width>
+      <p>
+        <text><![CDATA[2]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="362_66449867" type="text" x="80488.45845745431" y="63268.21719563595" r="-2.026669292762107e-43" s="57.0801648978376" class="body">
+      <height>28.176</height>
+      <width>-12.864</width>
+      <p>
+        <text><![CDATA[3]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="363_66449867" type="text" x="115672.62377253876" y="63162.37487542755" r="-2.0105846158354267e-43" s="57.0801648978376" class="body">
+      <height>28.176</height>
+      <width>-13.224</width>
+      <p>
+        <text><![CDATA[5]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="364_66449867" type="shape" x="48648.20584451335" y="61792.53062970103" r="0" s="2.3200556382403557" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentObjlib>circ1</parentObjlib>
+      </meta>
+    </object>
+    <object id="365_66449867" type="shape" x="80451.40532453678" y="61772.57883329921" r="0" s="2.3200556382403557" class="poly3">
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="366_66449867" type="shape" x="115706.2721505136" y="61814.194360098714" r="0" s="2.3200556382403557" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="367_66449867" type="text" x="48651.179803422274" y="63299.728809201864" r="-2.1070926773955286e-43" s="57.0801648978376" class="body">
+      <height>28.176</height>
+      <width>-10.272</width>
+      <p>
+        <text><![CDATA[1]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="368_66449867" type="shape" x="63817.380234738805" y="61749.6073988835" r="0" s="2.3200556382403557" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="369_66449867" type="text" x="97731.30395152586" y="63262.41940974549" r="-2.026669292762108e-43" s="57.0801648978376" class="body">
+      <height>28.176</height>
+      <width>-13.008000000000001</width>
+      <p>
+        <text><![CDATA[4]]></text>
+      </p>
+      <meta>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="370_66449867" type="shape" x="97753.8023433236" y="61791.117576869096" r="0" s="2.3200556382403557" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>146.94978781563685</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="371_66449867" type="button" x="58519.49759476779" y="55784.97730312" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="372_66449867" type="shape" x="58519.63701865768" y="59256.50781914624" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="374_66449867" type="button" x="75088.62294672262" y="55785.220708541936" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="375_66449867" type="shape" x="69247.68596867137" y="64376.81470048123" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="376_66449867" type="shape" x="58651.476814911846" y="60723.320668714" r="-90.00000000000006" s="6.871772199778715" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="377_66449867" type="shape" x="58653.177938889006" y="61787.32014669725" r="0" s="10.630427943598143" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="378_66449867" type="persistentgroup" x="58653.177938889006" y="60829.92131318373" r="0" s="13.31800416404736">
+      <m o="376_66449867"/>
+      <m o="377_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="379_66449867" type="shape" x="75346.9955857749" y="60710.398221694726" r="-90.00000000000006" s="6.871772199778715" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="380_66449867" type="shape" x="75348.69670975205" y="61774.39769967798" r="0" s="10.630427943598143" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="381_66449867" type="persistentgroup" x="75348.69670975205" y="60816.99886616446" r="0" s="13.31800416404736">
+      <m o="379_66449867"/>
+      <m o="380_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="382_66449867" type="shape" x="69213.13327308053" y="62969.09697616685" r="-90.00000000000006" s="6.871772199778701" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="383_66449867" type="shape" x="69209.0039093805" y="61823.50825168083" r="0" s="10.630427943598136" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="384_66449867" type="persistentgroup" x="69209.0039093805" y="62821.70170844573" r="0" s="10.35322653524721">
+      <m o="382_66449867"/>
+      <m o="383_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="385_66449867" type="shape" x="120757.05480171811" y="61781.48893419885" r="90.30460856451242" s="20.267264417494346" class="poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="0" y="-38.47482805006683"/>
+        <p x="23.5859375" y="38.47482805006683"/>
+        <p x="-23.5859375" y="38.47482805006683"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="386_66449867" type="button" x="69231.40003188173" y="67828.76946744035" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="387_66449867" type="shape" x="75389.09298304589" y="59259.477562714834" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="388_66449867" type="button" x="86120.09469999984" y="67649.44144404039" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="389_66449867" type="shape" x="86173.01041871565" y="64376.81470048123" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="390_66449867" type="shape" x="92272.32003581918" y="60710.398221694726" r="-90.00000000000006" s="6.871772199778715" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="391_66449867" type="shape" x="92274.02115979634" y="61774.39769967798" r="0" s="10.630427943598143" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="392_66449867" type="persistentgroup" x="92274.02115979634" y="60816.99886616446" r="0" s="13.31800416404736">
+      <m o="390_66449867"/>
+      <m o="391_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="393_66449867" type="shape" x="86138.45772312481" y="62969.0969761669" r="-90.00000000000006" s="6.871772199778701" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="394_66449867" type="shape" x="86134.32835942478" y="61823.508251680796" r="0" s="10.630427943598136" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="395_66449867" type="persistentgroup" x="86134.32835942478" y="62821.70170844575" r="0" s="10.35322653524721">
+      <m o="393_66449867"/>
+      <m o="394_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="396_66449867" type="button" x="92412.2" y="55784.65" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="397_66449867" type="shape" x="92314.4174330902" y="59259.477562714834" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="398_66449867" type="button" x="103801.28884257127" y="67825.09147525339" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="399_66449867" type="shape" x="103748.48460425693" y="64376.81470048123" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="400_66449867" type="shape" x="109847.79422136041" y="60710.398221694726" r="-90.00000000000006" s="6.871772199778715" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="401_66449867" type="shape" x="109849.49534533752" y="61774.39769967798" r="0" s="10.630427943598143" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="402_66449867" type="persistentgroup" x="109849.49534533752" y="60816.99886616446" r="0" s="13.31800416404736">
+      <m o="400_66449867"/>
+      <m o="401_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="403_66449867" type="shape" x="103713.93190866611" y="62969.0969761669" r="-90.00000000000006" s="6.871772199778697" class="line5">
+      <geom type="line">
+        <sp>-150.76172160501525 0</sp>
+        <ep>150.76172160501525 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="404_66449867" type="shape" x="103709.80254496603" y="61823.508251680796" r="0" s="10.630427943598136" class="circle poly3">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="circle">
+        <r>20</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="405_66449867" type="persistentgroup" x="103709.80254496603" y="62821.70170844575" r="0" s="10.35322653524721">
+      <m o="403_66449867"/>
+      <m o="404_66449867"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="406_66449867" type="button" x="109893.15983431356" y="55783.96672958803" r="0" s="10.27020371005077" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1060.9712230215823</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="407_66449867" type="shape" x="109889.89161863145" y="59259.477562714834" r="0" s="5.472699289497407" class="line5">
+      <geom type="line">
+        <sp>-985.4228812791532 0</sp>
+        <ep>985.4228812791532 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>timeline</parentTemplate>
+      </meta>
+    </object>
+    <object id="408_66449867" type="text" x="58823.299999999996" y="55560.35" r="0" s="44.25904022530384" class="strong">
+      <height>28.176</height>
+      <width>188.19614355392102</width>
+      <p>
+        <text><![CDATA[Data Collection]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="409_66449867" type="text" x="86093.3" y="67878.6" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>238.6221214502834</width>
+      <p>
+        <text weight="bold"><![CDATA[Try different prediction Models]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="410_66449867" type="text" x="92416.1" y="55460.55" r="0" s="40.771546355598254" class="body">
+      <height>56.352</height>
+      <width>228.9787294214651</width>
+      <p>
+        <text weight="bold"><![CDATA[word2vec and  Feature Extraction]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="411_66449867" type="text" x="22299.916552401803" y="98307.75524449046" r="0" s="40.77154635559825" class="body">
+      <height>28.176</height>
+      <width>642.4221214502834</width>
+      <p>
+        <text weight="bold"><![CDATA[UI creation and linking]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="412_66449867" type="text" x="42208.74411569221" y="64200.80101625003" r="0" s="57.0801648978376" class="body">
+      <height>56.352</height>
+      <width>-83.64000000000001</width>
+      <p>
+        <text><![CDATA[Weeks ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="413_66449867" type="text" x="48511.00166523035" y="61033.403376200025" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>-84.48</width>
+      <p>
+        <text><![CDATA[3rd Mar]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="414_66449867" type="text" x="63570.62229924292" y="61029.94991678235" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>-95.688</width>
+      <p>
+        <text><![CDATA[10th Mar]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="415_66449867" type="shape" x="46173.43070298606" y="63492.43647667486" r="0" s="45.74581927723089" class="line3">
+      <geom type="arrow">
+        <sp>-30 0</sp>
+        <ep>30 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="416_66449867" type="text" x="80625.33984418449" y="61030.66469520856" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>-93.888</width>
+      <p>
+        <text><![CDATA[17th Mar]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="417_66449867" type="text" x="68480.9" y="68061.7" r="0" s="40.77154635559825" class="strong">
+      <height>28.176</height>
+      <width>169.1989146189322</width>
+      <p>
+        <text><![CDATA[Data Cleaning]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="418_66449867" type="text" x="75267.1" y="55437.200000000004" r="0" s="40.771546355598254" class="strong">
+      <height>28.176</height>
+      <width>192.12944334970655</width>
+      <p>
+        <text><![CDATA[Data Processing]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="419_66449867" type="text" x="97933.52366128896" y="61032.022774218385" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>-93.888</width>
+      <p>
+        <text><![CDATA[17th Mar]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="420_66449867" type="text" x="104032.05" y="67878.54999999999" r="0" s="40.77154635559825" class="strong">
+      <height>56.352</height>
+      <width>250.42600000000002</width>
+      <p>
+        <text><![CDATA[PortFolio Management creation ]]></text>
+      </p>
+    </object>
+    <object id="421_66449867" type="text" x="80619.83011627392" y="42703.68101458039" r="0" s="171.86423782863676" class="body">
+      <height>28.176</height>
+      <width>-107.08800000000001</width>
+      <p>
+        <text><![CDATA[Timelines]]></text>
+      </p>
+    </object>
+    <object id="425_66449867" type="text" x="115391.33067868906" y="61035.49836145088" r="0" s="40.77154635559825" class="body">
+      <height>56.352</height>
+      <width>-96.456</width>
+      <p>
+        <text><![CDATA[24th Mar]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="252_66449867" type="text" x="167875.46257130124" y="37387.28694421416" r="0" s="352.77411550119126" class="body">
+      <height>28.176</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="253_66449867" type="button" x="89262.83354726319" y="-24950.05177714697" r="0" s="99.11728137051206" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>584.7419053554536</w>
+        <h>349.05314874108876</h>
+      </size>
+    </object>
+    <object id="254_66449867" type="shape" x="96557.99374900151" y="-33517.10088463855" r="180" s="38.657133787245265" class="line3">
+      <geom type="line">
+        <sp>-164.46832673694863 0</sp>
+        <ep>164.4683267369486 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="255_66449867" type="shape" x="90200.93283409889" y="-30661.994884517768" r="90.01030802143627" s="38.65713378724511" class="line3">
+      <geom type="line">
+        <sp>-73.85293850474862 0</sp>
+        <ep>73.85293850474864 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="256_66449867" type="shape" x="98867.76601777416" y="-27806.929555302984" r="179.99421771224232" s="38.65713378724528" class="line3">
+      <geom type="line">
+        <sp>-224.21587461844092 0</sp>
+        <ep>224.21587461844092 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="257_66449867" type="shape" x="107535.30903598458" y="-25279.387980794436" r="90.00000000000001" s="38.657133787245265" class="line3">
+      <geom type="line">
+        <sp>-65.40620203553796 0</sp>
+        <ep>65.40620203553796 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="258_66449867" type="shape" x="101026.21053339912" y="-22750.7258679038" r="-180" s="38.657133787245265" class="line3">
+      <geom type="line">
+        <sp>-168.36747006982463 0</sp>
+        <ep>168.3674700698246 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="259_66449867" type="shape" x="97855.9344351726" y="-17582.465552576927" r="-180" s="38.657133787245265" class="line3">
+      <geom type="line">
+        <sp>-86.35735220452665 0</sp>
+        <ep>86.35735220452665 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="260_66449867" type="shape" x="94517.79965280088" y="-20165.892951374903" r="90.00368145080805" s="38.65713378724542" class="line3">
+      <geom type="line">
+        <sp>-66.83828928962082 0</sp>
+        <ep>66.83828928962083 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="261_66449867" type="button" x="106328.87076019906" y="-33517.71596237254" r="0" s="6.708938407121352" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1057.8034682080925</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="262_66449867" type="button" x="98816.78939263218" y="-18731.760783818965" r="0" s="2.653237797458897" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="263_66449867" type="button" x="101218.11730235867" y="-13084.11541079354" r="0" s="5.563864903822811" class="circle">
+      <type>circle</type>
+      <size>
+        <w>600.2079002079001</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="264_66449867" type="text" x="106401.82510918417" y="-33701.21308861988" r="0" s="49.51933468030395" class="body">
+      <height>28.176</height>
+      <width>-43.464</width>
+      <p align="center">
+        <text><![CDATA[End]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="265_66449867" type="text" x="101217.85381730596" y="-13146.082933260355" r="0" s="20.805991243961312" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>109.43376957790328</width>
+      <p align="center">
+        <text><![CDATA[Start]]></text>
+      </p>
+      <meta>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="266_66449867" type="shape" x="101195.45401727024" y="-16142.003164784846" r="89.99999999999993" s="38.657133787245265" class="line3">
+      <geom type="line">
+        <sp>37.2362989940309 0</sp>
+        <ep>-37.2362989940309 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="267_66449867" type="shape" x="82146.01543329722" y="-13068.448861955669" r="1.1712886442317286e-14" s="38.65713378724532" class="line3">
+      <geom type="arrow">
+        <sp>-443.08361261506207 0</sp>
+        <ep>443.08361261506207 0</ep>
+        <t>7</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="268_66449867" type="button" x="97983.76815895615" y="-18470.868483105573" r="0" s="1.1657113891974942" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="269_66449867" type="image" x="97649.71336898468" y="-18628.737419147477" r="0" s="0.3356325855573616">
+      <source w="300" h="300">4295398598<url>4295398598.png</url></source>
+      <sourceUrl>https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F290429%2Fimages%2F2315929%2Fyahoo-finance_cover.png</sourceUrl>
+    <resource><id>4295398598</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/3/0/2306428cfdf0b5eaf74c46c5a4f0fada9e1b8.png</url></resource></object>
+    <object id="270_66449867" type="image" x="98230.3923747972" y="-18622.588168142454" r="0" s="0.40487644120062294">
+      <source w="709" h="192">4295399384<url>4295399384.png</url></source>
+      <sourceUrl>https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F290429%2Fimages%2F2315958%2FNasdaq_Logo.png</sourceUrl>
+    <resource><id>4295399384</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/b/b/c708b242b6b3b5024e7a2b931703da7b0af60.png</url></resource></object>
+    <object id="271_66449867" type="button" x="99573.13934621328" y="-18470.91597771846" r="0" s="1.1657113891974942" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="272_66449867" type="image" x="99295.3132887413" y="-18675.55613559564" r="0" s="0.179410873007026">
+      <source w="1600" h="149">4295411735<url>4295411735.png</url></source>
+      <sourceUrl>https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F290429%2Fimages%2F2315952%2F2000px-The_Wall_Street_Journal_Logo.png</sourceUrl>
+    <resource><id>4295411735</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/3/8/36e43ebba79e6aedc9a90c55c052ee113ca52.png</url></resource></object>
+    <object id="273_66449867" type="image" x="99799.88129531684" y="-18675.55613559564" r="0" s="0.2657938859363351">
+      <source w="1080" h="159">4295414030<url>4295414030.png</url></source>
+      <sourceUrl>https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F290429%2Fimages%2F2315937%2FThe_New_York_Times_logo.png</sourceUrl>
+    <resource><id>4295414030</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/f/1/6/ca3691efde18a09aae07cb7a93be48bd2188c.png</url></resource></object>
+    <object id="274_66449867" type="text" x="98804.39853468478" y="-19315.291467824387" r="0" s="6.159101522627501" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Data Collection]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="275_66449867" type="button" x="102870.57109205503" y="-23860.585168226087" r="0" s="2.5332670024826154" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="276_66449867" type="text" x="102914.4622548355" y="-24487.119834668116" r="0" s="5.88060695771631" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Research Process]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="277_66449867" type="text" x="102848.6696242368" y="-24215.47674967692" r="0" s="2.8149795867851184" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>112.704</height>
+      <width>849.7299273890426</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Initially we would create different models for classification (up, down, stable)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Observe the how performance changes]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Choose the best model for stock price prediction using regression]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="278_66449867" type="button" x="102317.97921110224" y="-29121.63825475426" r="0" s="2.5332670024826154" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1056.9182389937107</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="279_66449867" type="text" x="102314.30779817769" y="-29746.75733622519" r="0" s="5.880606957716303" class="strong">
+      <height>28.176</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Portfolio Creation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="280_66449867" type="shape" x="106349.71183702744" y="-13069.018378269671" r="-2.981770013872052e-16" s="17.513509939798627" class="line5">
+      <geom type="line">
+        <sp>-181.62177324208997 0</sp>
+        <ep>181.62177324208997 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process2</parentTemplate>
+      </meta>
+    </object>
+    <object id="281_66449867" type="text" x="81130.22919506213" y="-14415.20830951608" r="-8.905553108097852e-15" s="100.91043395759684" class="head">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>298.2125760702175</width>
+      <p>
+        <text><![CDATA[Prediction Methodology]]></text>
+      </p>
+    </object>
+    <object id="282_66449867" type="button" x="66193.96222164421" y="-32189.91186921682" r="0" s="6.5247195540202245" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>947.3761851999571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="283_66449867" type="text" x="66038.59654558737" y="-33826.788913496275" r="0" s="14.928107092423325" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Theory]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="285_66449867" type="image" x="65305.52664272094" y="-32189.700236158384" r="0" s="4.494906267964177">
+      <source w="821" h="48">4295329283<url>4295329283.gif</url></source>
+      <sourceUrl>CodeCogsEqn%20(2).gif</sourceUrl>
+    <resource><id>4295329283</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/6/4/029fa4b6bbd247daaf946bf03f8a7aafb5c4f.gif</url></resource></object>
+    <object id="286_66449867" type="image" x="65705.45792691255" y="-31810.196092768245" r="0" s="4.28823043869405">
+      <source w="1062" h="39">4295332817<url>4295332817.gif</url></source>
+      <sourceUrl>http%3A%2F%2Flatex.codecogs.com%2Fgif.latex%3F%255Chuge%2520r_t%255Em%2520%253D%2520represents%255C%2520return%255C%2520on%255C%2520market%255C%2520usually%255C%2520an%255C%2520index%255C%2520such%255C%2520S%255C%2526P500</sourceUrl>
+    <resource><id>4295332817</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/9/b/b88595493dced446f0fa511434859713b3d77.gif</url></resource></object>
+    <object id="287_66449867" type="image" x="65030.78408527144" y="-31323.415604261165" r="0" s="4.26893581354807">
+      <source w="762" h="39">4295336852<url>4295336852.gif</url></source>
+      <sourceUrl>http%3A%2F%2Flatex.codecogs.com%2Fgif.latex%3F%255Chuge%2520%255Cbeta_t%255Em%2520%253D%2520represents%255C%2520the%2520%255C%2520dependence%255C%2520on%255C%2520the%255C%2520market</sourceUrl>
+    <resource><id>4295336852</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/0/a/0/d978f1618ad71a1299ee325c0ee24d51887e3.gif</url></resource></object>
+    <object id="288_66449867" type="image" x="66010.56225269019" y="-30919.825583025857" r="0" s="4.268936134567195">
+      <source w="1219" h="39">4295359220<url>4295359220.gif</url></source>
+      <sourceUrl>http%3A%2F%2Flatex.codecogs.com%2Fgif.latex%3F%255Chuge%2520%255Calpha_t%255Es%2520%253D%2520represents%255C%2520the%255C%2520independent%255C%2520movement%255C%2520of%255C%2520the%255C%2520stocks%255C%2520from%255C%2520the%255C%2520market.</sourceUrl>
+    <resource><id>4295359220</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/e/e/1/1156cd4e8b4950e908a845e99d45a7d82412b.gif</url></resource></object>
+    <object id="289_66449867" type="text" x="65833.51403428844" y="-33152.91044401949" r="0" s="6.8555524987687635" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>84.52799999999999</height>
+      <width>707.0237784827682</width>
+      <p>
+        <text><![CDATA[Capital Asset pricing model introduced by Jack Treynor in 1962]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Simplest version of formula states:]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="290_66449867" type="button" x="78784.60674454989" y="-32186.582248091763" r="0" s="6.5247195540202245" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>947.3761851999571</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="291_66449867" type="text" x="78629.24106849308" y="-33823.459292371146" r="0" s="14.928107092423332" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Theory ( cont)]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="292_66449867" type="button" x="78784.62709079443" y="-32899.75447519583" r="0" s="1.6897845617262968" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>723.451815062504</w>
+        <h>669.2432593277417</h>
+      </size>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="293_66449867" type="button" x="78794.48723886049" y="-32573.040051670716" r="0" s="0.5393869252602338" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="294_66449867" type="button" x="78448.4423264045" y="-33251.10118282576" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="295_66449867" type="shape" x="78603.71212502569" y="-32939.071151299446" r="49.20305052337349" s="1.4975675715665526" class="line1">
+      <geom type="arrow">
+        <sp>-110.60018374426012 -4.266875247338817</sp>
+        <ep>110.60018374426014 -4.266875247338817</ep>
+        <b>8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="296_66449867" type="shape" x="78998.86216651018" y="-32939.08414719341" r="137.28604416632123" s="1.4975675715665546" class="line1">
+      <geom type="arrow">
+        <sp>-121.39865896296682 4.266875247338817</sp>
+        <ep>121.39865896296683 4.266875247338817</ep>
+        <b>-8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="297_66449867" type="text" x="78463.62403693216" y="-33266.02811792595" r="0" s="1.070776802709828" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>268.413210598623</width>
+      <p>
+        <text><![CDATA[Market Index Features ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[(S&P 500)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="294_66449867"/>
+      </layout>
+    </object>
+    <object id="298_66449867" type="text" x="78794.40698663845" y="-32574.85297467039" r="0" s="2.330670714714751" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Daily Price Movement]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="293_66449867"/>
+      </layout>
+    </object>
+    <object id="299_66449867" type="button" x="79210.6618177991" y="-33251.04284624401" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="300_66449867" type="text" x="79219.1231699954" y="-33262.56448319768" r="0" s="1.499087523793759" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>215.44736879853065</width>
+      <p>
+        <text><![CDATA[Company Features]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="299_66449867"/>
+      </layout>
+    </object>
+    <object id="301_66449867" type="button" x="77583.62958057103" y="-31374.603638464658" r="0" s="1.6897845617262968" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>723.451815062504</w>
+        <h>669.2432593277417</h>
+      </size>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="302_66449867" type="button" x="77593.48972863713" y="-31047.88921493947" r="0" s="0.539386925260234" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="303_66449867" type="button" x="77247.4448161811" y="-31725.950346094345" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="304_66449867" type="shape" x="77402.71461480227" y="-31413.92031456819" r="49.20305052337349" s="1.4975675715665526" class="line1">
+      <geom type="arrow">
+        <sp>-110.60018374426012 -4.266875247338817</sp>
+        <ep>110.60018374426014 -4.266875247338817</ep>
+        <b>8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="305_66449867" type="shape" x="77797.86465628675" y="-31413.93331046226" r="137.28604416632123" s="1.497567571566552" class="line1">
+      <geom type="arrow">
+        <sp>-121.39865896296682 4.266875247338817</sp>
+        <ep>121.39865896296683 4.266875247338817</ep>
+        <b>-8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="306_66449867" type="text" x="77241.6242202461" y="-31715.636794113856" r="0" s="1.600871612935912" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>173.3330764712512</width>
+      <p>
+        <text><![CDATA[Market Index ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Historical News]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="303_66449867"/>
+      </layout>
+    </object>
+    <object id="307_66449867" type="text" x="77593.3882021821" y="-31049.76143499538" r="0" s="2.3306707147147567" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Market Index]]></text>
+      </p>
+      <p align="center">
+        <text weight="bold"><![CDATA[Features]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="302_66449867"/>
+      </layout>
+    </object>
+    <object id="308_66449867" type="button" x="78009.66430757572" y="-31725.892009512772" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="309_66449867" type="text" x="78024.04164770938" y="-31737.469906060127" r="0" s="1.600871612935912" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>188.09495935753904</width>
+      <p>
+        <text><![CDATA[Market Index Historical Values]]></text>
+      </p>
+    </object>
+    <object id="310_66449867" type="button" x="80326.02731223301" y="-31374.568593341133" r="0" s="1.6897845617262968" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>723.451815062504</w>
+        <h>669.2432593277417</h>
+      </size>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="311_66449867" type="button" x="80335.88746029898" y="-31047.854169816" r="0" s="0.539386925260234" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="312_66449867" type="button" x="79989.84254784306" y="-31725.915300971013" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="313_66449867" type="shape" x="80145.11234646417" y="-31413.88526944478" r="49.20305052337349" s="1.4975675715665526" class="line1">
+      <geom type="arrow">
+        <sp>-110.60018374426012 -4.266875247338817</sp>
+        <ep>110.60018374426014 -4.266875247338817</ep>
+        <b>8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="314_66449867" type="shape" x="80540.26238794868" y="-31413.89826533867" r="137.28604416632123" s="1.497567571566552" class="line1">
+      <geom type="arrow">
+        <sp>-121.39865896296682 4.266875247338817</sp>
+        <ep>121.39865896296683 4.266875247338817</ep>
+        <b>-8.533750494677633</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="315_66449867" type="text" x="79984.02195190809" y="-31716.56227195816" r="0" s="1.600871612935912" class="body">
+      <height>56.352</height>
+      <width>173.3330764712512</width>
+      <p>
+        <text><![CDATA[Company Historical News]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="312_66449867"/>
+      </layout>
+    </object>
+    <object id="316_66449867" type="text" x="80327.26507784572" y="-31049.66709281565" r="0" s="2.3306707147147567" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>56.352</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Company ]]></text>
+      </p>
+      <p align="center">
+        <text weight="bold"><![CDATA[Features]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="311_66449867"/>
+      </layout>
+    </object>
+    <object id="317_66449867" type="button" x="80752.06203923759" y="-31725.85696438928" r="0" s="0.4586442462180044" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="318_66449867" type="text" x="80757.91173265075" y="-31716.457136587695" r="0" s="1.600871612935912" class="body">
+      <height>56.352</height>
+      <width>188.09495935753904</width>
+      <p>
+        <text><![CDATA[Company Historical Values]]></text>
+      </p>
+    </object>
+    <object id="319_66449867" type="text" x="97987.8076935259" y="-18385.426709821477" r="0" s="1.3607484889378727" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>169.05599999999998</height>
+      <width>588.2759441282315</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Stock prices for the past five years of top 100 most traded companies registered on NASDAQ (Yahoo Finance API)]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Written a script which automates the downloading process by specifying dates and providing list of companies ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="320_66449867" type="text" x="97983.50648870051" y="-18734.285817345808" r="0" s="2.2445705257388853" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Historical Prices]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="321_66449867" type="text" x="99573.20476377712" y="-18739.309719496996" r="0" s="2.2445705257388853" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>315.83563554372705</width>
+      <p align="center">
+        <text><![CDATA[Historical News]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="322_66449867" type="button" x="99320.18364472494" y="-18511.68513806735" r="0" s="0.33184833385404255" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="323_66449867" type="text" x="99319.9740827296" y="-18579.629905604736" r="0" s="0.5423185981077447" class="strong">
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Raw Data]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="324_66449867" type="text" x="99317.73023120192" y="-18520.409801353075" r="0" s="0.312915093862077" class="body">
+      <height>169.05599999999998</height>
+      <width>662.0567837637979</width>
+      <p>
+        <text><![CDATA[Financial news data of past five years using RSS feeds of various news platforms. various (NYTimes, Wall Street Journal etc) is available through google news api.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[We automate the collection step using a shell script where query api and store the xml data.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="325_66449867" type="button" x="99831.6088138004" y="-18518.098395669505" r="0" s="0.33184833385404255" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>797.6366322008862</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="326_66449867" type="text" x="99831.39925180504" y="-18586.043163206778" r="0" s="0.5423185981077447" class="strong">
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Data Cleaning]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="327_66449867" type="text" x="99832.8938016624" y="-18521.0305043365" r="0" s="0.312915093862077" class="body">
+      <height>112.704</height>
+      <width>662.0567837637979</width>
+      <p>
+        <text><![CDATA[Data is collected as xml, but contains html css stype information.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Need to be cleaned before use.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="328_66449867" type="shape" x="99573.53697366171" y="-18510.92942416565" r="-2.1437608652233733" s="1.8690732538162773" class="line3">
+      <geom type="arrow">
+        <sp>-61.946644784988315 0</sp>
+        <ep>61.94664478498831 0</ep>
+        <t>7</t>
+      </geom>
+    </object>
+    <object id="329_66449867" type="shape" x="102936.33101374123" y="-23683.438905986437" r="161.89896760204212" s="0.7631471744946974" class="line3">
+      <geom type="line">
+        <sp>-64.81114888653599 0</sp>
+        <ep>64.81114888653599 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="330_66449867" type="button" x="102767.60798103373" y="-23656.911751899253" r="0" s="1.0530489146376878" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>687.0616738085449</w>
+        <h>659.8652999225757</h>
+      </size>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="331_66449867" type="shape" x="102869.24054773424" y="-23482.336834637987" r="54.06677800863071" s="0.7631471744946964" class="line3">
+      <geom type="line">
+        <sp>-63.8083424190336 0</sp>
+        <ep>63.80834241903359 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="332_66449867" type="shape" x="102659.44826211252" y="-23484.06553436641" r="126.67246628003109" s="0.7631471744946983" class="line3">
+      <geom type="line">
+        <sp>-62.87267252994727 0</sp>
+        <ep>62.87267252994727 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="333_66449867" type="shape" x="102763.64103587954" y="-23807.280541228145" r="90.00000000000001" s="0.7631471744946953" class="line3">
+      <geom type="line">
+        <sp>-64.05865660020088 0</sp>
+        <ep>64.05865660020089 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="334_66449867" type="button" x="102937.12869957538" y="-23385.489222353088" r="0" s="0.22242268208738783" class="circle">
+      <type>circle</type>
+      <size>
+        <w>601</w>
+        <h>601</h>
+      </size>
+    </object>
+    <object id="335_66449867" type="button" x="102761.89978038956" y="-23926.957941160097" r="0" s="0.22724061865893783" class="circle">
+      <type>circle</type>
+      <size>
+        <w>599</w>
+        <h>599</h>
+      </size>
+    </object>
+    <object id="336_66449867" type="button" x="103050.93944729942" y="-23722.161104829447" r="0" s="0.2299458641191635" class="circle">
+      <type>circle</type>
+      <size>
+        <w>596.3</w>
+        <h>596.3</h>
+      </size>
+    </object>
+    <object id="337_66449867" type="button" x="102590.31061955472" y="-23389.187031076548" r="0" s="0.23184737200634503" class="circle">
+      <type>circle</type>
+      <size>
+        <w>573</w>
+        <h>573</h>
+      </size>
+    </object>
+    <object id="338_66449867" type="shape" x="102593.75557296786" y="-23681.690745179436" r="-161.69927850933703" s="0.7631471744946964" class="line3">
+      <geom type="line">
+        <sp>-62.492617903354216 0</sp>
+        <ep>62.492617903354216 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="339_66449867" type="button" x="102482.88402671328" y="-23718.407423562436" r="0" s="0.16823071505338433" class="circle">
+      <type>circle</type>
+      <size>
+        <w>784.6</w>
+        <h>784.6</h>
+      </size>
+    </object>
+    <object id="340_66449867" type="button" x="102764.2512378211" y="-23627.977253125893" r="0" s="0.4259959843368618" class="circle">
+      <type>circle</type>
+      <size>
+        <w>606.9</w>
+        <h>606.9</h>
+      </size>
+    </object>
+    <object id="341_66449867" type="textwithplaceholder" x="103039.46634969526" y="-23724.10859741701" r="0" s="0.5314985742678419" class="strong">
+      <placeholder text="" x="0" y="-14.05" align="left" width="0"/>
+    </object>
+    <object id="342_66449867" type="text" x="102764.18577878944" y="-23635.646695674197" r="0" s="0.997436196060068" class="strong">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Feature Selection]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="340_66449867"/>
+      </layout>
+    </object>
+    <object id="343_66449867" type="text" x="102760.05697802868" y="-23929.54703576729" r="0" s="0.30300324606245504" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>421.02337266440327</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Daily Price Movements]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="335_66449867"/>
+      </layout>
+    </object>
+    <object id="344_66449867" type="text" x="103050.43279709178" y="-23720.18376853413" r="0" s="0.305228377221929" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>84.52799999999999</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Company News]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Daily Price Movements]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="336_66449867"/>
+      </layout>
+    </object>
+    <object id="345_66449867" type="text" x="102937.530641373" y="-23387.47600085392" r="0" s="0.2975692436749052" class="body">
+      <height>169.05599999999998</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Company News]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Daily Price Movements]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Index News]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Daily Index Price Movements]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="334_66449867"/>
+      </layout>
+    </object>
+    <object id="346_66449867" type="text" x="102488.24403722624" y="-23720.65652262087" r="0" s="0.2938245572551292" class="body">
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <style fontFamily="custom-ralewayo" font-family="Raleway2"/>
+      <height>28.176</height>
+      <width>355.38987324894015</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Company News]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="339_66449867"/>
+      </layout>
+    </object>
+    <object id="347_66449867" type="text" x="102589.6647348234" y="-23392.42555509293" r="0" s="0.305228377221929" class="body">
+      <height>112.704</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Company News]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Daily Price Movements]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Historical Index News]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="336_66449867"/>
+      </layout>
+    </object>
+    <object id="348_66449867" type="text" x="101743.83702806012" y="-27645.579327745545" r="0" s="100.91043395759684" class="body">
+      <height>28.176</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="349_66449867" type="button" x="101558.97783277075" y="-29202.864832056996" r="0" s="0.6522256942452194" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>603.7000613333454</w>
+        <h>333.66448974609375</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="350_66449867" type="text" x="101558.82449931125" y="-29271.499280868124" r="0" s="2.0130305799475527" class="strong">
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Current Portfolio]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="349_66449867"/>
+      </layout>
+    </object>
+    <object id="351_66449867" type="text" x="101535.6377156965" y="-29161.139477728782" r="0" s="0.8296489173251301" class="body">
+      <height>140.88</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[AAPL:+100]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[BAC:0]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DAL:-500]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JPM:-500]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[XOM:+1000]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="349_66449867"/>
+      </layout>
+    </object>
+    <object id="352_66449867" type="button" x="101946.92464719655" y="-29537.24801405162" r="0" s="0.6522256942452194" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>603.7000613333454</w>
+        <h>333.66448974609375</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="353_66449867" type="text" x="101946.77131373696" y="-29605.88246286274" r="0" s="2.0130305799475527" class="strong">
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[N-day forecast]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="352_66449867"/>
+      </layout>
+    </object>
+    <object id="354_66449867" type="text" x="101923.58453012229" y="-29495.52265972337" r="0" s="0.8296489173251301" class="body">
+      <height>140.88</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[AAPL:+0.01]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[BAC:+0.06]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DAL:+0.00]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JPM:-0.01]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[XOM:+0.11]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="352_66449867"/>
+      </layout>
+    </object>
+    <object id="355_66449867" type="button" x="102343.47255534468" y="-29190.470942539578" r="0" s="0.6522256942452194" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>358.17956689996646</w>
+        <h>196.99769131134963</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="356_66449867" type="text" x="102351.33830745981" y="-29194.972260142513" r="0" s="2.0130305799475527" class="strong">
+      <height>56.352</height>
+      <width>123.17822218359052</width>
+      <p>
+        <text><![CDATA[Portfolio]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Optimizer]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="355_66449867"/>
+      </layout>
+    </object>
+    <object id="357_66449867" type="button" x="101947.00537411337" y="-28813.968537534736" r="0" s="0.29698407954525136" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="358_66449867" type="text" x="101943.58086041338" y="-28816.159117148534" r="0" s="2.0290128135380203" class="body">
+      <height>56.352</height>
+      <width>-102.768</width>
+      <p>
+        <text><![CDATA[Historical]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ Data]]></text>
+      </p>
+    </object>
+    <object id="359_66449867" type="button" x="102990.23999058652" y="-29190.447835159677" r="0" s="0.6522256942452194" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>674.042773467448</w>
+        <h>333.66448974609375</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>blank-quick</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="373_66449867" type="text" x="102990.14699499852" y="-29258.732283970843" r="0" s="2.0130305799475527" class="strong">
+      <height>28.176</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Predicted Portfolio]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="359_66449867"/>
+      </layout>
+    </object>
+    <object id="423_66449867" type="text" x="102959.34510491583" y="-29161.967630985437" r="0" s="0.8296489173251301" class="body">
+      <height>140.88</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[AAPL:+200]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[BAC:-100]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[DAL:-500]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[JPM:-500]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[XOM:+1000]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="359_66449867"/>
+      </layout>
+    </object>
+    <object id="424_66449867" type="shape" x="102182.93756480276" y="-29345.82052291719" r="64.55264335801586" s="1.0778952719200867" class="line3">
+      <geom type="arrow">
+        <sp>-91.1456822266049 0</sp>
+        <ep>91.1456822266049 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="429_66449867" type="shape" x="101997.20468255188" y="-29173.468998693064" r="-2.062314591977701" s="1.077895271920085" class="line3">
+      <geom type="arrow">
+        <sp>-217.97563545536343 0</sp>
+        <ep>217.97563545536343 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="430_66449867" type="shape" x="102130.25955819797" y="-29009.278482331203" r="-49.17183340368505" s="1.0778952719200854" class="line3">
+      <geom type="arrow">
+        <sp>-143.73198736784667 0</sp>
+        <ep>143.73198736784667 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="431_66449867" type="shape" x="102619.91390558002" y="-29181.924181859926" r="-2.1136773705000993e-15" s="1.0778952719200858" class="line3">
+      <geom type="arrow">
+        <sp>-152.647146352136 0</sp>
+        <ep>152.647146352136 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="432_66449867" type="button" x="-14539.209470754437" y="7664.651104681237" r="0" s="28.11303848395141" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>767.9990105306483</w>
+        <h>575.9992578979859</h>
+      </size>
+    </object>
+    <object id="433_66449867" type="text" x="-15315.725932023655" y="7116.611004154583" r="0" s="58.69279346651072" class="strong">
+      <height>28.176</height>
+      <width>-152.976</width>
+      <p>
+        <text><![CDATA[THANK YOU...]]></text>
+      </p>
+    </object>
+    <object id="0_66449867" type="text" x="109736.58041399806" y="55711.4" r="0" s="40.771546355598254" class="body">
+      <height>56.352</height>
+      <width>168.26600000000002</width>
+      <p>
+        <text weight="bold"><![CDATA[User Interface Development]]></text>
+      </p>
+    </object>
+    <object id="2_12449854" type="image" x="64175.75" y="-32543.05" r="0" s="5.856648970797415">
+      <source w="246" h="39">4296506687<url>4296506687.gif</url></source>
+      <sourceUrl>http%3A%2F%2Flatex.codecogs.com%2Fgif.latex%3F%255Chuge%2520r_t%255Es%253D%255Cbeta%255Esr%255Em_t%26amp%3Bplus%3B%255Calpha_t%255Es%2520%25u200B</sourceUrl>
+    <resource><id>4296506687</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/8/f/f/dd4bfc4b3dc11cc5766b2db130ee530a0e301.gif</url></resource></object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="34_177130"/>
+    </s>
+    <s>
+      <eagle o="6_66449867"/>
+    </s>
+    <s>
+      <eagle o="35_177130"/>
+    </s>
+    <s>
+      <eagle o="4_66449867"/>
+    </s>
+    <s>
+      <eagle o="98_66449867"/>
+    </s>
+    <s>
+      <eagle o="108_66449867"/>
+    </s>
+    <s>
+      <eagle o="102_66449867"/>
+    </s>
+    <s>
+      <eagle o="37_177130"/>
+    </s>
+    <s>
+      <eagle o="253_66449867"/>
+    </s>
+    <s>
+      <eagle o="282_66449867"/>
+    </s>
+    <s>
+      <eagle o="290_66449867"/>
+    </s>
+    <s>
+      <eagle o="292_66449867"/>
+    </s>
+    <s>
+      <eagle o="301_66449867"/>
+    </s>
+    <s>
+      <eagle o="310_66449867"/>
+    </s>
+    <s>
+      <eagle o="262_66449867"/>
+    </s>
+    <s>
+      <eagle o="268_66449867"/>
+    </s>
+    <s>
+      <eagle o="271_66449867"/>
+    </s>
+    <s>
+      <eagle o="322_66449867"/>
+    </s>
+    <s>
+      <eagle o="325_66449867"/>
+    </s>
+    <s>
+      <eagle o="275_66449867"/>
+    </s>
+    <s>
+      <eagle o="330_66449867"/>
+    </s>
+    <s>
+      <eagle o="278_66449867"/>
+    </s>
+    <s>
+      <eagle o="422_66449867"/>
+    </s>
+    <s>
+      <eagle o="432_66449867"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Raleway-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: RalewayO;
+}
+
+@font-face
+{
+	src: url('DroidSans-Regular.keg');
+	fontFamily: custom-droidsans;
+	font-class: custom-droidsans;
+	font-style: normal;
+	font-weight: normal;
+	font-family: DroidSans;
+}
+
+@font-face
+{
+	src: url('Raleway-Regular.keg');
+	fontFamily: custom-ralewayo;
+	font-class: custom-ralewayo;
+	font-style: normal;
+	font-weight: normal;
+	font-family: RalewayO;
+}
+
+@font-face
+{
+	src: url('Raleway-Heavy.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Raleway-Heavy;
+}
+
+@font-face
+{
+	src: url('Raleway-SemiBold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Raleway-SemiBold;
+}
+
+@font-face
+{
+	src: url('Raleway-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: RalewayO;
+}
+
+@font-face
+{
+	src: url('DroidSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: DroidSans;
+}
+
+.line1
+{
+	color: #3181ff;
+	gradEndColor: #3181ff;
+	gradStartColor: #3181ff;
+}
+
+.line2
+{
+	color: #1966cc;
+	gradEndColor: #1966cc;
+	gradStartColor: #1966cc;
+}
+
+.line3
+{
+	color: #4dd4d2;
+	gradEndColor: #4dd4d2;
+	gradStartColor: #4dd4d2;
+}
+
+.line4
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line5
+{
+	color: #f96a37;
+	gradEndColor: #f96a37;
+	gradStartColor: #f96a37;
+}
+
+.poly1
+{
+	color: #efefef;
+	gradEndColor: #3181ff;
+	gradStartColor: #3181ff;
+}
+
+.poly2
+{
+	color: #efefef;
+	gradEndColor: #1966cc;
+	gradStartColor: #1966cc;
+}
+
+.poly3
+{
+	color: #efefef;
+	gradEndColor: #4dd4d2;
+	gradStartColor: #4dd4d2;
+}
+
+.poly4
+{
+	color: #efefef;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly5
+{
+	color: #efefef;
+	gradEndColor: #f96a37;
+	gradStartColor: #f96a37;
+}
+
+Background
+{
+	gradEnd: #efefef;
+	gradStart: #efefef;
+}
+
+Grid
+{
+	color: #b0b0b0;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #318bff;
+	gradStartAlpha: 1;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	thickness: 3;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #318bff;
+	borderThickness: 10;
+	gradEndAlpha: 0.2;
+	gradEndColor: #318bff;
+	gradStartAlpha: 0;
+	gradStartColor: #318bff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #e4e4dd;
+	background-padding: 10;
+}
+
+ZLabel.head
+{
+	color: #333;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #f6f1a6;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 1;
+	background-color: #efcf1c;
+	background-padding: 15;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #f0ea82;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>17e964aa</hash>
+<sync><oid>oqykvxhxv9sy</oid><title>stock-prediction-using-financial-news</title><hash>17e964aa</hash></sync><config>dvvk5VGmHL1Q31dXdEWXPNI33UgFxciEMhj9Fpvx+PgQ7j6HrwjDDR+x/cpHA0MTHOSTNKPcf5khn7wd1JoQrBgUCrEUO27fUI5xJVn5vcMepj6T3JLHeDRE93D4sFCvY8eCwzYJjcxVo4lfoT51gnpv8U1UYIPge2YLvddkJhNwlwf2iAcwwJtuPnyMlKu8I+yeAp+PEAYThxq2Pr4PilnD1npecPpuX4I8tc19xQ70cju4TZOgs8YBBz/S74ktgtuxuB3bfUjriPWYhDFT4cKfUu07CAiFqGTGQ020g/jjzXMEiq6PitasUbqHU1NSHKZQuvm5KJ4jYhVdKnsnMw==</config></zuiprezi>
